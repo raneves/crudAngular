@@ -1,0 +1,44 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Caneta preta",
+      "price": "5.99"
+    },
+    {
+      "id": "2",
+      "name": "Celular",
+      "price": 1500
+    },
+    {
+      "id": "3",
+      "name": "Notebook",
+      "price": 7000
+    },
+    {
+      "id": "6f2c",
+      "name": "Geladeira1",
+      "price": 1000
+    },
+    {
+      "id": "cc3e",
+      "name": "Bicicleta",
+      "price": "20001"
+    },
+    {
+      "id": "f795",
+      "name": "veio da tela",
+      "price": "58"
+    },
+    {
+      "id": "e474",
+      "name": "a",
+      "price": "1"
+    },
+    {
+      "id": "4259",
+      "name": "produx",
+      "price": "1122"
+    }
+  ]
+}

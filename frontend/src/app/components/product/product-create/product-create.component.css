@@ -1,0 +1,15 @@
+form{
+    display: flex;
+    flex-direction: column ;
+}
+
+button{
+    margin-top: 20px;
+    margin-right: 10px;
+}
+
+.button-container {
+    display: flex;
+    justify-content: space-between; /* Isso alinha os botões lado a lado e distribui o espaço disponível entre eles */
+    margin-top: 20px; /* Ajuste a margem conforme necessário */
+}

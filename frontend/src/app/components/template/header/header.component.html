@@ -1,0 +1,15 @@
+<mat-toolbar class="header mat-elevation-z4">
+    <span>
+        <a routerLink="/">
+            <img class="logo" src="assets/imagem/logo.png" alt="logo">
+        </a>
+    </span>
+    <span class="title-gr{oup">
+        <a routerLink = "{{ routerUrl }}">
+            <i class="material-icons">
+                {{icon}}
+            </i>
+            {{ title? title:'' }}
+        </a>
+    </span>
+</mat-toolbar>
